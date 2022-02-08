@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gatlinfarrington
 - 👀 I’m interested in: Cyber Security, Machine Learning, and FinTech
-- 🌱 I’m currently learning Python, SQL, and Swift
+- 🌱 I’m currently learning Python and JS
 - 📫 How to reach me: gwfarrin@asu.edu
 
 <!---
