@@ -1,9 +1,10 @@
   <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-<h3>Hi! 👋<br>I'm Gatlin Farrington<br><br> a Computer Science Student at Arizona State University</h3>
-<h6>Feel free to check out my website to look at the kind of thigns I work on: <a href="https://gatlinfarrington.github.io">gatlinfarrington.github.io</a></h6>
-
+<h3>Hi! 👋<br>I'm Gatlin Farrington<br> a Computer Science Student at Arizona State University</h3>
 <p>
-💻  
-</p>
-
+ - 👀 I’m interested in: Cyber Security, Machine Learning, and FinTech <br>
+ - 🌱 I’m currently learning Python, SQL, and Swift <br>
+ - 🌱 I’m currently learning Python and JS <br>
+ - 📫 How to reach me: gwfarrin@asu.edu <br>
+<\p>
+ <!---
 
