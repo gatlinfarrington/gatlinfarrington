@@ -5,6 +5,6 @@
  - 🌱 I’m currently learning Python, SQL, and Swift <br>
  - 🌱 I’m currently learning Python and JS <br>
  - 📫 How to reach me: gwfarrin@asu.edu <br>
-<\p>
+  </p>
  <!---
 
