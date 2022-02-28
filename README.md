@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @gatlinfarrington
-- 👀 I’m interested in: Cyber Security, Machine Learning, and FinTech
-- 🌱 I’m currently learning Python and JS
-- 📫 How to reach me: gwfarrin@asu.edu
+  <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
+<h3>Hi! 👋<br>I'm Gatlin Farrington<br>a Computer Science Student at Arizona State University</h3>
+<h6>Feel free to check out my website to look at the kind of thigns I work on: gatlinfarrington.github.io</h6>
 
-<!---
-gatlinfarrington/gatlinfarrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
