@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gwfarrin@asu.edu**
 
-- 📄 Know about my experiences [gatlinfarrington.github.io/Resume.html](gatlinfarrington.github.io/Resume.html)
+- 📄 Know about my experiences [https://gatlinfarrington.github.io/Resume.html](https://gatlinfarrington.github.io/Resume.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
