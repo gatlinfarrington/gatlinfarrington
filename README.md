@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gatlinfarrington&label=Profile%20views&color=0e75b6&style=flat" alt="gatlinfarrington" /> </p>
 
-- 🔭 I’m currently working on [A website for the Robotics Team I coach.](pvrobotics.live)
+- 🔭 I’m currently working on Not much :(, life is busy right now...
 
 - 🌱 I’m currently learning **Javascript, React, Node.JS and more**
 
-- 👨‍💻 All of my projects are available at [gatlinfarrington.github.io](gatlinfarrington.github.io)
+- 👨‍💻 Some of my projects are available at [gatlinfarrington.github.io](gatlinfarrington.github.io)
 
-- 💬 Ask me about **Robotics, Python, and more!**
+- 💬 Ask me about **Robotics, Python, .NET, and more!**
 
 - 📫 How to reach me **gwfarrin@asu.edu**
 
