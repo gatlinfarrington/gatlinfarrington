@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gatlinfarrington/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
